@@ -1,7 +1,7 @@
 TimelyTextView
 ==============
 
-Animated TextView like Timely app
+数字改变的动画，请看demo
 
 
 v1 : 
